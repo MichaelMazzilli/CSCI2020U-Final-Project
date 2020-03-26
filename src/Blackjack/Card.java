@@ -30,6 +30,6 @@ public class Card {
 
     //Return a string representation of card
     public String toString() {
-        return (name + " of " + suit);
+        return (name + "Of" + suit);
     }
 }

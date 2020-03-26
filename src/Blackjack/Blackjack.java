@@ -1,7 +1,6 @@
+package Blackjack;
+
 import java.util.*;
-import Blackjack.Dealer;
-import Blackjack.Deck;
-import Blackjack.HumanPlayer;
 
 public class Blackjack {
     public static void main(String[] args) {
