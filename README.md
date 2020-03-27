@@ -1,6 +1,7 @@
 # CSCI2020U-Final-Project
 
 This project was created by Michael Mazzilli, Brendan Szeto, Nandu Pokhrel, Sajantth Sripirakasan, and Faizah Afreen.
+Any code submitted was a collaborative effort between the group.
 
 This program allows the user to play a game of Blackjack against an AI dealer. The rules of Blackjack can be found here https://www.pagat.com/banking/blackjack.html
 
