@@ -1,5 +1,5 @@
 # CSCI2020U-Final-Project
-
+*Ignore all files/folder added after .idea and CSCI2020_finalProj-master, as they are old versions that were just works-in-progress*
 This project was created by Michael Mazzilli, Brendan Szeto, Nandu Pokhrel, Sajantth Sripirakasan, and Faizah Afreen.
 Any code submitted was a collaborative effort between the group.
 
